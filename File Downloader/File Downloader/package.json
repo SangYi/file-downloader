@@ -1,0 +1,10 @@
+{
+  "name": "File-Downloader",
+  "version": "0.0.0",
+  "description": "File Downloader",
+  "main": "app.js",
+  "author": {
+    "name": "Yi",
+    "email": ""
+  }
+}
